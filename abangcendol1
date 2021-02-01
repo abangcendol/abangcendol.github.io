@@ -724,7 +724,7 @@ http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png,UK BT Sport Extra 1
 http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png,UK BT Sport Extra 2
+#EXTINF:-1 group-title=Sport tvg-logo=https://ewsat.com/img/BT_SPORT_EXTRA_2.png,UK BT Sport Extra 2
 http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=https://static.epg.best/qa/beINSports1.qa.png group-title=Sport,beIN Sports 1 Asia
