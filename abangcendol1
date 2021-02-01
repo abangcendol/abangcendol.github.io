@@ -192,8 +192,17 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID=ChU.SG tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png group-title=SINGAPORE,CHANNEL U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-ID=Indosiar tvg-logo=http://cekker.masuk.web.id/logo/indou.png group-title=INDONESIA,INDOSIAR
-https://home-tv.web.id/dinda/tes_lokal.m3u8
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-LqxhSoFogDI/X6tWEsMq2YI/AAAAAAAAABg/uW-I6Xtf7csJRCE6P8PKsF1LzMqvpnh1gCLcBGAsYHQ/s320/rcti.png group-title=INDONESIA,RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-IJJlmUgd_Xs/X6tWvBQpXsI/AAAAAAAAABw/ampq8D15_UM_56d2Bexkdjw14bm6XQmOACLcBGAsYHQ/s320/inews.png group-title=INDONESIA,INews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-zetMRYv8acc/X6tW87dPCWI/AAAAAAAAAB0/RpO9ERrn1ZkU3eU-yoNgNJ7EkPstoq5NQCLcBGAsYHQ/s320/mnctv.png group-title=INDONESIA, MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-W4BKQfsh1cI/X6tXJZBuLKI/AAAAAAAAAB8/uhCcwizxZhcMYXwv-V_wIQUZHNBvQwVvACLcBGAsYHQ/s320/gtv.png group-title=INDONESIA, GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
