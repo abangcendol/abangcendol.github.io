@@ -678,6 +678,9 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 tvg-id=War.MY tvg-logo=https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png group-title=ASTRO,Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
+#EXTINF:-1, tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png group-title=ASTRO,Astro Citra
+http://vp2p2s.my6868.cc/20425/MaN-ipTV.m3u8.ts
+
 #EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png group-title=SPORT, RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
