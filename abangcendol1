@@ -192,12 +192,13 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID=ChU.SG tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png group-title=SINGAPORE,CHANNEL U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
+#EXTINF:-1 tvg-ID=Indosiar tvg-logo=http://cekker.masuk.web.id/logo/indou.png group-title=INDONESIA,INDOSIAR
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id=ANT.ID tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png group-title=INDONESIA,ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
