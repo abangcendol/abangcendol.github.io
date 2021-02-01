@@ -667,11 +667,6 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-id=WWE.US tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png group-title=Sport,WWE
-#https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
 #EXTINF:-1 tvg-name=305 tvg-id=MTV.us tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/mtv.png group-title=Malaysia,MTV
 http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 
