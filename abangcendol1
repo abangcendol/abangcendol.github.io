@@ -42,9 +42,10 @@ https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
 #EXTINF:-1 tvg-ID=Oky.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png group-title=Malaysia,OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=TVA.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png group-title=Malaysia,ALHIJRAH
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MY",ALHIJRAH
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 
