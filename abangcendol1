@@ -45,7 +45,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MY",ALHIJRAH
+#EXTINF:-1 tvg-ID=TVA.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png group-title=MY,ALHIJRAH
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 
@@ -62,109 +62,109 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/parlimen.png" group-title="MY",PARLIMEN
+#EXTINF:-1 tvg-ID=".MY" tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/parlimen.png group-title=MY,PARLIMEN
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/salam.png" group-title="MY",SALAM
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/salam.png group-title=MY,SALAM
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png" group-title="MY",SENSASI
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png group-title=MY,SENSASI
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MY",DUNIA SINEMA
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png group-title=MY,DUNIA SINEMA
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/persona.png" group-title="MY",PERSONA
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/persona.png group-title=MY,PERSONA
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/lakumall.png" group-title="MY",LAKU MALL
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/lakumall.png group-title=MY,LAKU MALL
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/seti.png group-title=Malaysia,SETI
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/seti.png group-title=ASIAN,SETI
 http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sc%20channel.png group-title=Malaysia,SC CHANNEL
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sc%20channel.png group-title=ASIAN,SC CHANNEL
 http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/now%20jelli.png group-title=Malaysia,NOW JELLI
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/now%20jelli.png group-title=ASIAN,NOW JELLI
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/colors%20tamil.png group-title=Malaysia,COLORS TAMIL
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/colors%20tamil.png group-title=TAMIL,COLORS TAMIL
 http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/polimer.png group-title=Malaysia,POLIMER
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/polimer.png group-title=TAMIL,POLIMER
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/jaya%20max.png group-title=Malaysia,JAYA MAX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/jaya%20max.png group-title=TAMIL,JAYA MAX
 http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20max.png group-title=Malaysia,SONY MAX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20max.png group-title=TAMIL,SONY MAX
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png group-title=Malaysia,CINEPLEX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png group-title=TAMIL,CINEPLEX
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png group-title=Malaysia,YUPP THIRAI
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png group-title=TAMIL,YUPP THIRAI
 http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png group-title=Malaysia,COLORS
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png group-title=TAMIL,COLORS
 http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20sab.png group-title=Malaysia,SONY SAB
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20sab.png group-title=TAMIL,SONY SAB
 http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
-#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20set.png group-title=Malaysia,SONY SET
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20set.png group-title=TAMIL,SONY SET
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
