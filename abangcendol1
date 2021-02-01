@@ -390,12 +390,12 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=BBL.UK tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20lifestyle.png group-title=LIFESTYLE,BBC LIFESTYLE
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=BBL.UK tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png group-title=DISC,BBC EARTH
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
@@ -418,24 +418,24 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=BBL.UK tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png group-title=ASIAN,TVN
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=BBL.UK tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png group-title=ASIAN,TVN MOVIES
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=BAE.Asia tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428257_ico.png group-title=MOVIE,BLUE ANT ENTERTAIMENT
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=BAX.Asia tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png group-title=MOVIE,BLUE ANT EXTREME
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 
