@@ -761,7 +761,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-logo=https://sport-tv-guide.live/images/stations/a1967.png group-title=Sport,beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=Sport,beIN Sports USA
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg group-title=Sport,beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
 #EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png group-title=Sport,NBCSN
