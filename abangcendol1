@@ -748,7 +748,6 @@ http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1447.ts
 #EXTINF:-1 tvg-logo=https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD13-1.png group-title=Sport,beIN Sports 13
 http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1448.ts
 
-
 #EXTINF:-1 tvg-logo=https://static.epg.best/qa/beINSports1.qa.png group-title=Sport,beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -762,30 +761,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-logo=https://sport-tv-guide.live/images/stations/a1967.png group-title=Sport,beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-#EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png,beIN Sports 1 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1460.ts
-
-#EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png,beIN Sports 2 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1461.ts
-
-#EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png,beIN Sports 3 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1462.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA
+#EXTINF:-1 tvg-logo="" group-title=Sport,beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png group-title=Sport,NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-
-#EXTINF:-1 tvg-logo=http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png group-title=Sport, Premier Football 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png group-title=Sport, Premier Football 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png group-title=Sport, Premier Football 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png group-title=Sport, RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
