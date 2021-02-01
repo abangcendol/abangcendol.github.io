@@ -721,10 +721,10 @@ http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title=Sport tvg-logo=https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png,UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=Sport tvg-logo=https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png,UK BT Sport Extra 1
+#EXTINF:-1 group-title=Sport tvg-logo=https://ia600809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png,UK BT Sport Extra 1
 http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=Sport tvg-logo=https://cdn-0.tvprofil.com/img/kanali-logo/bt_sport_extra_2.png,UK BT Sport Extra 2
+#EXTINF:-1 group-title=Sport tvg-logo=https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png,UK BT Sport Extra 2
 http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=https://static.epg.best/qa/beINSports1.qa.png group-title=Sport,beIN Sports 1 Asia
