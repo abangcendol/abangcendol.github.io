@@ -196,20 +196,11 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-LqxhSoFogDI/X6tWEsMq2YI/AAAAAAAAABg/uW-I6Xtf7csJRCE6P8PKsF1LzMqvpnh1gCLcBGAsYHQ/s320/rcti.png group-title=INDONESIA,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
-#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-IJJlmUgd_Xs/X6tWvBQpXsI/AAAAAAAAABw/ampq8D15_UM_56d2Bexkdjw14bm6XQmOACLcBGAsYHQ/s320/inews.png group-title=INDONESIA,INews
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-
 #EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-zetMRYv8acc/X6tW87dPCWI/AAAAAAAAAB0/RpO9ERrn1ZkU3eU-yoNgNJ7EkPstoq5NQCLcBGAsYHQ/s320/mnctv.png group-title=INDONESIA, MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-W4BKQfsh1cI/X6tXJZBuLKI/AAAAAAAAAB8/uhCcwizxZhcMYXwv-V_wIQUZHNBvQwVvACLcBGAsYHQ/s320/gtv.png group-title=INDONESIA, GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-
-#EXTINF:-1 tvg-ID="Indosiar" tvg-logo=http://cekker.masuk.web.id/logo/indou.png group-title=Lokal,INDOSIAR
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-indosiar
-
-#EXTINF:-1 tvg-logo=https://i.ibb.co/j4R8H2m/indosiar.png group-title=LOKAL-Vidio, Indosiar 
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-205
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -250,6 +241,9 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
 #EXTINF:-1 tvg-ID=Awa.MY tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png group-title=NEWS,AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-IJJlmUgd_Xs/X6tWvBQpXsI/AAAAAAAAABw/ampq8D15_UM_56d2Bexkdjw14bm6XQmOACLcBGAsYHQ/s320/inews.png group-title=NEWS,INews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo=http://static.epg.best/gb/CNN.uk.png group-title=NEWS,CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -684,9 +678,6 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 
 #EXTINF:-1 tvg-id=War.MY tvg-logo=https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png group-title=ASTRO,Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-
-#EXTINF:-1, tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png group-title=ASTRO,Astro Citra
-http://vp2p2s.my6868.cc/20425/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png group-title=SPORT, RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
