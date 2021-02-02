@@ -719,35 +719,6 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg group-title=SPORT,beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia1.png ,beIN 1
-http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.ball24.tv/wp-content/themes/ball24/logo/beinsport1fr.png ,beIN 1 fr
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport1fr/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png ,beIN 1 th
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd1_480p/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.sine.tv/api/table/icon/ch386.png ,beIN 1 tu
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1tu/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia10.png ,beIN 10
-http://160.119.77.116:8081/iptv/hd-bein10.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia2.png ,beIN 2
-http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.ball24.tv/wp-content/themes/ball24/logo/beinsport2fr.png ,beIN 2 fr
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport2fr/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png ,beIN 2 th
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://www.sine.tv/api/table/icon/ch387.png ,beIN 2 tu
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports2tu/chunks.m3u8?u=vip002:p=326597
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia3.png ,beIN 3
-http://160.119.77.116:8081/iptv/hd-bein3.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia4.png ,beIN 4
-http://160.119.77.116:8081/iptv/hd-bein4.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia5.png ,beIN 5
-http://160.119.77.116:8081/iptv/hd-bein5.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia6.png ,beIN 6
-http://160.119.77.116:8081/iptv/hd-bein6.stream/playlist.m3u8
-#EXTINF:-1 group-title=SPORT tvg-logo=https://doo2you.com/icon/beinsportarabia7.png ,beIN 7
-http://160.119.77.116:8081/iptv/hd-bein7.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png group-title=SPORT, NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 
