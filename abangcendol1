@@ -206,6 +206,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
 #EXTINF:-1 tvg-ID="Indosiar" tvg-logo=http://cekker.masuk.web.id/logo/indou.png group-title=Lokal,INDOSIAR
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-indosiar
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co/j4R8H2m/indosiar.png group-title=LOKAL-Vidio, Indosiar 
 https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-205
