@@ -268,12 +268,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=DSJ.ID tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png group-title=KIDS,DISNEY JR
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=.ID tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/disneyxd.png group-title=KIDS,DISNEY XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
 
@@ -283,27 +283,27 @@ https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png group-title=KIDS,NICK JR
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png group-title=KIDS,NICKELODEON
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/cbeebies.png group-title=KIDS,CBEEBIES
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png group-title=KIDS,BOOMERANG
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=Nzg5YTdmYjUtYTZhMC0zMDg0LWI2NzEtMGQzMjRhZTdmZTg3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id=.MY tvg-logo=https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png group-title=KIDS,BABY TV
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 
