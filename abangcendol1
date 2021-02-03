@@ -740,3 +740,5 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title=SPORT tvg-logo=https://il.mahidol.ac.th/upload/img/2020-12-22-081330.jpg,Astro Supersport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1,SkySport-1
+http://iptv.am000.tv:8000/live/add17/add17/443.ts
