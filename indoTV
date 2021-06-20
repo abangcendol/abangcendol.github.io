@@ -2,7 +2,7 @@ This playlist is meant for MPD player only : Tivimate, TVirl, PVRlive
  
 #EXTM3U
  
-EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -12,8 +12,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
 #EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+
 #EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",Jak TV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
 
