@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="3600"
 
 #EXTM3U
 #EXTINF:-1 tvg-id="611" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
