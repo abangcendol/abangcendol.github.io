@@ -3,7 +3,7 @@
 
 #EXTINF
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=MjljNzczYzEtZmE4MC0zYTE0LWI2YzYtYWEwYjEyY2FmYzY0
+#KODIPROP:inputstream.adaptive.license_key="MjljNzczYzEtZmE4MC0zYTE0LWI2YzYtYWEwYjEyY2FmYzY0"
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.15.104/PLTV/88888888/224/3221227769/3221227769.mpd
 
