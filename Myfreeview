@@ -98,3 +98,9 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1  group-title="MUSIK" tvg-logo = "https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png", POP MUSIK 
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo = "https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png", MALEO 
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
