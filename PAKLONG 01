@@ -400,7 +400,7 @@ https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDIAN"tvg-logo="https://www.pngkit.com/png/detail/29-294938_sony-sab-logo-sab-tv.png", UTV MOVIES
+#EXTINF:-1 group-title="INDIAN"tvg-logo="https://www.adgully.com/img/800/201709/utv-new.jpg", UTV MOVIES
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
 
