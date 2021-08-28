@@ -1,0 +1,62 @@
+#EXTM3U
+
+//// MY/SG ////
+
+#EXTINF:-1 ch-id="TV1" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="MY/SG",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 ch-id="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="MY/SG",TV2 
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 ch-id="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MY/SG",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 ch-id="TV8" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg" group-title="MY/SG",TV8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 ch-id="TV9" tvg-logo="https://www.aliffjj.com/uploads/1/2/1/0/12100197/tv9logo-baru_orig.jpg" group-title="MY/SG",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MY/SG",ALHIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",BARNAMA
+http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qslv31G_m8A/mqdefault.jpg" group-title="MY/SG",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://sites.bookdoc.com/wp-content/uploads/2015/11/astro-AWANI-logo.jpg" group-title="MY/SG",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY/SG",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+//// NEWS ////
+
+#EXTINF:-1 tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="NEWS",Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="NEWS",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="NEWS",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="NEWS",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="NEWS",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
