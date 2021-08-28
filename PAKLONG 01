@@ -1,59 +1,91 @@
 #EXTM3U
 
-//// MY/SG ////
 
-#EXTINF:-1 ch-id="TV1" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="MY/SG",TV1
+//// MYFREEVIEW ////
+
+#EXTINF:-1 ch-id="TV1" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="MYFREEVIEW",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 ch-id="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="MY/SG",TV2 
+#EXTINF:-1 ch-id="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="MYFREEVIEW",TV2 
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 ch-id="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MY/SG",TV3
+#EXTINF:-1 ch-id="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MYFREEVIEW",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 ch-id="TV8" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg" group-title="MY/SG",TV8
+#EXTINF:-1 ch-id="TV8" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg" group-title="MYFREEVIEW",TV8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 ch-id="TV9" tvg-logo="https://www.aliffjj.com/uploads/1/2/1/0/12100197/tv9logo-baru_orig.jpg" group-title="MY/SG",TV9
+#EXTINF:-1 ch-id="TV9" tvg-logo="https://www.aliffjj.com/uploads/1/2/1/0/12100197/tv9logo-baru_orig.jpg" group-title="MYFREEVIEW",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MY/SG",ALHIJRAH
+#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MYFREEVIEW",ALHIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qslv31G_m8A/mqdefault.jpg" group-title="MY/SG",HELLO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qslv31G_m8A/mqdefault.jpg" group-title="MYFREEVIEW",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",BERNAMA
-http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sites.bookdoc.com/wp-content/uploads/2015/11/astro-AWANI-logo.jpg" group-title="MY/SG",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY/SG",ASTRO CERIA
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY/SG",ASTRO RIA HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6730
 
 //// NEWS ////
 
-#EXTINF:-1 tvg-logo"https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="NEWS",Cheddar Big News
+
+#EXTINF:-1 tvg-logo"https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="NEWS",CHEDDAR BIG NEWS
 https://live.chdrstatic.com/cbn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="NEWS",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",India Today
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MirrorNowLogo.jpg/200px-MirrorNowLogo.jpg" group-title="NEWS",Mirror Now
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MirrorNowLogo.jpg/200px-MirrorNowLogo.jpg" group-title="NEWS",MIRROR NOW
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/NDTV_247.png" group-title="NEWS",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
+#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="NEWS",NHK World
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="NEWS",NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://sites.bookdoc.com/wp-content/uploads/2015/11/astro-AWANI-logo.jpg" group-title="NEWS",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="NEWS",BERNAMA
+http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
+
+
+//// ASTRO ////
+
+
+#EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="ASTRO",ASTRO CERIA HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",ASTRO RIA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6730
+
+#EXTINF:-1 tvg-id="105" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",PRIMA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6727
+
+#EXTINF:-1 tvg-id="107" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",WARNA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6740
+
+#EXTINF:-1 tvg-id="108" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",CITRA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/7267
+
+#EXTINF:-1 tvg-id="109" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",NAURA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6724
+
+#EXTINF:-1 tvg-id="112" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",RANIA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6729
+
+#EXTINF:-1 tvg-id="113" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",AURA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6713
+
+
+//// MOVIE ////
+
+
+#EXTINF:-1 tvg-id="404" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",BOO HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/8872
