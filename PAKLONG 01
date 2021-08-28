@@ -34,10 +34,10 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 //// NEWS ////
 
-#EXTINF:-1 tvg-logo"https://iconape.com/wp-content/png_logo_vector/cheddar-big-news.png" group-title="NEWS",Cheddar Big News
+#EXTINF:-1 tvg-logo"https://1hdlxe1oe0ll1eghud24le5v-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-5.38.40-PM-300x272.png" group-title="NEWS",Cheddar Big News
 https://live.chdrstatic.com/cbn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/286-2865678_cgtn-logo-png-transparent-png.png" group-title="NEWS",CGTN
+#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="NEWS",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",India Today
