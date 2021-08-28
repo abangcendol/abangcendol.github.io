@@ -34,22 +34,19 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 //// NEWS ////
 
-#EXTINF:-1 tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="NEWS",Cheddar Big News
+#EXTINF:-1 tvg-logo"https://iconape.com/wp-content/png_logo_vector/cheddar-big-news.png" group-title="NEWS",Cheddar Big News
 https://live.chdrstatic.com/cbn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="NEWS",CGTN
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/286-2865678_cgtn-logo-png-transparent-png.png" group-title="NEWS",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="NEWS",Mirror Now
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MirrorNowLogo.jpg/200px-MirrorNowLogo.jpg" group-title="NEWS",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="NEWS",Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/NDTV_247.png" group-title="NEWS",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
