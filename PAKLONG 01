@@ -377,7 +377,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA"tvg-logo="http://185.238.0.145:1313/uploads/tv_image/rtv.png", RTV
+#EXTINF:-1 group-title="INDONESIA"tvg-logo="https://cdn.imgbin.com/2/13/20/imgbin-rtv-television-channel-streaming-television-ary-r41pxL1SRAnrJYXpDDAQJRZEL.jpg", RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -392,18 +392,13 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://www.dropbox.com/s/qq8m7ddlj5d5k9d/metro-tv-logo.png?dl=1", METRO TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest?cb=20180224092515", METRO TV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://mncvision.id/userfiles/image/channel/channel_82.png", MNC
+#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png", MNC
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "http://images.useetv.com/logo_rtv_big1.png", RTV 
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -422,12 +417,12 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://www.dropbox.com/s/0bh7bu1k7h5qtdr/jaktv.jpeg?dl=1", JAKTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655", JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://www.dropbox.com/s/nmkxbt0g0ikwjbq/jtv.png?dl=1", JTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnw2aWnvWFkuQGD1bu_WxVf0miQeFVBAXBhBTHkLKT_EZ5YMwh-TpuOBT8GKLhBJm6rVk&usqp=CAU", JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -437,7 +432,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://www.dropbox.com/s/omh50bfxqdjf15r/bandungtv.png?dl=1", BANDUNG TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/f/f0/Bandung_TV_2005.png/revision/latest?cb=20140204120420", BANDUNG TV
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
