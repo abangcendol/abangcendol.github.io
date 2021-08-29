@@ -226,6 +226,42 @@ http://iptv.tvmalaysia.cc:80/penang200/penang200/6733
 #EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_vijay_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520171540",STAR VIJAY HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6732
 
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123",JAYA MAX
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6802
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451",CHUTTI TV
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6762
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png/revision/latest?cb=20190727030434",iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6723
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",HUA HEE DAI HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6722
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://www.ohk-tv.com/img/logo.png",OH!K HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6726
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/QJHD-E.jpg/revision/latest?cb=20200529184137",QUAN JIA HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6728
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/307.png/revision/latest/scale-to-width-down/250?cb=20200520195303",SHUANG XING HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6731
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png",TUTOR TV PT3
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6734
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest?cb=20200926105027",TUTOR TV SPM
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6735
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/TTV_UPSR.png/revision/latest?cb=20200926105113",TUTOR TV UPSR
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6736
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Astro_TVIQ_2007.png",TVIQ
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6737
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/AstroXiaoTaiYang.png/revision/latest?cb=20170616165659",XIAO TAI YANG HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6741
+
 
 //// MOVIE ////
 
