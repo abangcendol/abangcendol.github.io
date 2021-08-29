@@ -12,6 +12,12 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 ch-id="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MYFREEVIEW", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
+#EXTINF:-1 ch-id="TV3" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="MYFREEVIEW", TV6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 ch-id="TV3" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYFREEVIEW", DIDIK TV
+http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+
 #EXTINF:-1 ch-id="TV8" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg" group-title="MYFREEVIEW", TV8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
