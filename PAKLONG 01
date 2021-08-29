@@ -181,6 +181,51 @@ http://iptv.tvmalaysia.cc:80/penang200/penang200/6729
 #EXTINF:-1 tvg-id="113" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",AURA HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6713
 
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="http://www.sheermedia.in/images/clients/Aditya%20TV.png",ADITHYA
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6700
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",AEC HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6701
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6702
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6703
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6704
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6705
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6706
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png",COLORS TAMIL
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6716
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/10/Zee-Tamil_10.jpg",ZEE TAMIL HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6742
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/118%281%29.png/revision/latest?cb=20200527075434",GO SHOP 2 HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6718
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Astro_Vinmeen_HD.png/revision/latest?cb=20200930170740",VINMEEN HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6739
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Astro_Vaanavil_%28s20%29.png/revision/latest/scale-to-width-down/250?cb=20200922171020",VAANAVIL HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6738
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/eba6b320877779.562f2a1f9eca3.png",MAKKAL TV
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6806
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150",SUN TV HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6733
+
+#EXTINF:-1 tvg-id="214" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Star_vijay_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520171540",STAR VIJAY HD
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6732
+
 
 //// MOVIE ////
 
