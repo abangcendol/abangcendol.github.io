@@ -12,10 +12,13 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 ch-id="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MYFREEVIEW", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 ch-id="TV3" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="MYFREEVIEW", TV6
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYFREEVIEW", AWESOME TV
+http://iptv.tvmalaysia.cc:80/penang200/penang200/9016
+
+#EXTINF:-1 ch-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="MYFREEVIEW", TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 ch-id="TV3" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYFREEVIEW", DIDIK TV
+#EXTINF:-1 ch-id="" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYFREEVIEW", DIDIK TV
 http://iptv.tvmalaysia.cc:80/penang200/penang200/8922
 
 #EXTINF:-1 ch-id="TV8" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg" group-title="MYFREEVIEW", TV8
