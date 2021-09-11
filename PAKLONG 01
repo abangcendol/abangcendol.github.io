@@ -229,14 +229,14 @@ http://iptv.tvmalaysia.cc:80/penang200/penang200/6732
 #EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123",JAYA MAX
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6802
 
-#EXTINF:-1 tvg-id="213" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451",CHUTTI TV
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6762
+#EXTINF:-1 tvg-id="300" group-title="ASTRO" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",ASTRO FIRST
+http://194.233.66.151:25461/rumah/home/203
 
-#EXTINF:-1 tvg-id="300" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png/revision/latest?cb=20190727030434",iQIYI HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6723
+#EXTINF:-1 tvg-id="333" group-title="ASTRO" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",ASTRO FIRST 2
+http://194.233.66.151:25461/rumah/home/287
 
-#EXTINF:-1 tvg-id="333" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",HUA HEE DAI HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6722
+#EXTINF:-1 tvg-id="213" group-title="ASTRO" tvg-logo="https://i.pinimg.com/280x280_RS/d3/42/5e/d3425e4ddac5b85f1bb62a8b36c97566.jpg",24/7 MOVIE
+http://194.233.66.151:25461/rumah/home/257
 
 #EXTINF:-1 tvg-id="394" group-title="ASTRO" tvg-logo="https://www.ohk-tv.com/img/logo.png",OH!K HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6726
